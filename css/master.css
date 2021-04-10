@@ -5,10 +5,14 @@
         width: 50%;
     }
 
-    .home-page, #programmes, .features, #about, #footer {
+    .home-page, #programmes, #about, #footer {
         padding: 4% 25%;
     }
-
+    
+    .features{
+        padding: 4% 10%;
+    }
+    
     .navbar{
         padding: 2rem 25%;
     }
