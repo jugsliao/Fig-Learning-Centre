@@ -1,2 +1,2 @@
 # flc
-Fig learning website designed by Jacques Liao
+Fig learning tuition centre website designed by Jacques Liao
