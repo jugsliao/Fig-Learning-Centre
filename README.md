@@ -1,2 +1,2 @@
 # flc
-fig learning centre website draft 2
+Fig learning website designed by Jacques Liao
