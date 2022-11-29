@@ -3,6 +3,7 @@
     .title-image{
         float: right;
         width: 50%;
+        border-radius: 7%;
     }
 
     .home-page, #programmes, #about, #footer {
